@@ -24,7 +24,6 @@ El Juego de la Vida es un autómata celular diseñado por el matemático britán
 
 ## ✨ Características
 
-- 🎨 **Colores aleatorios** - Células vivas con colores vibrantes (verde, rojo, azul)
 - ▶️ **Controles intuitivos** - Iniciar, pausar y reiniciar la simulación
 - ⚡ **Control de velocidad** - Ajusta la velocidad de simulación en tiempo real
 - 📏 **Múltiples tamaños** - Presets de tamaño: x1, x2, x4
@@ -108,26 +107,10 @@ El juego sigue estas cuatro reglas simples:
 - **HTML5 Canvas** - Renderizado gráfico
 - **Vanilla JavaScript** - Sin frameworks, puro y simple
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas.  Si tienes ideas para mejorar el proyecto: 
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add:  nueva característica'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto es de código abierto y está disponible para cualquiera que quiera aprender o experimentar. 
-
 ---
 
 <div align="center">
 
-Hecho con ❤️ y ☕ por [isegura-b](https://github.com/isegura-b)
-
-⭐ Si te gustó el proyecto, dale una estrella! 
+Hecho con por [isegura-b](https://github.com/isegura-b)
 
 </div>
