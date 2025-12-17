@@ -40,21 +40,6 @@ El Juego de la Vida es un autómata celular diseñado por el matemático britán
    cd Conway-s-game-of-life
    ```
 
-2. Abre `index.html` en tu navegador favorito
-
-### Opción 2: Con servidor local (recomendado)
-```bash
-# Usando npx (no requiere instalación)
-npx serve .
-
-# O con Python
-python -m http.server 8000
-
-# O con Node.js
-npm install -g http-server
-http-server
-```
-
 ### 🔧 Compilar TypeScript (opcional)
 Si modificas el código TypeScript: 
 ```bash
